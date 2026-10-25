@@ -4,7 +4,8 @@
 
 Students describe a problem (text, optionally a photo). CampusFix triages it, flags safety concerns, spots likely duplicates, pins it on a campus map and hands moderators a verification desk. It runs without an AI model, but can use Ollama and Gemma for richer analysis.
 
-![Dashboard](docs/dashboard.png)
+<img width="947" height="498" alt="Screenshot 2026-10-25 151125" src="https://github.com/user-attachments/assets/f6dc8b01-da1e-4f08-8704-bb489ce6681a" />
+
 
 ## Before and after
 
@@ -25,7 +26,7 @@ A triaged ticket comes out (real output from the built-in rule-based triage, no 
 
 With Ollama and Gemma running, the same pipeline also reads attached photos and writes richer observations.
 
-![Triage panel](docs/triage.png)
+
 
 ## Features
 
@@ -38,7 +39,7 @@ With Ollama and Gemma running, the same pipeline also reads attached photos and 
 - **Audit trail** of every moderator action.
 - **Abuse protection**: per-IP rate limits, image validation, size limits, and a lock-out after repeated wrong moderator tokens.
 
-![Campus map](docs/map.png)
+<img width="944" height="494" alt="Screenshot 2026-10-25 160136" src="https://github.com/user-attachments/assets/073d6cf1-1808-4e07-a0aa-8d49a20b7a93" />
 
 ## Quick start (Windows)
 
