@@ -26,6 +26,7 @@ A triaged ticket comes out (real output from the built-in rule-based triage, no 
 
 With Ollama and Gemma running, the same pipeline also reads attached photos and writes richer observations.
 
+<img width="943" height="493" alt="Screenshot 2026-10-25 190757" src="https://github.com/user-attachments/assets/81935715-616a-476c-ab41-4ee38454ad24" />
 
 
 ## Features
