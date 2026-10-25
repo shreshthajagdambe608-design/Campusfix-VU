@@ -1,0 +1,4 @@
+# VU CampusFix uses only the Python standard library (Python 3.10 or newer).
+# Nothing to pip install.
+#
+# Optional, installed separately: Ollama (https://ollama.com) + the Gemma model for AI triage.

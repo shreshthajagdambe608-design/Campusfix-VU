@@ -1,0 +1,21 @@
+VU CAMPUSFIX - QUICK START
+==========================
+1. Install Python 3.10+ from python.org (tick "Add python.exe to PATH").
+2. Double-click Start_CampusFix.bat   (use Start_CampusFix_Demo.bat to see sample reports).
+3. Keep the terminal window open. Your browser opens automatically.
+   The terminal also prints the MODERATOR TOKEN.
+
+WHO CAN DO WHAT
+  Everyone ........ view dashboard / map / register, submit reports, run AI triage
+  Moderators ...... edit status, verify or dismiss, delete, edit the map, read the audit log
+  To become a moderator click "Moderator" (bottom-left) and paste the token.
+
+SHARE ON THE SAME WI-FI
+  Double-click Start_CampusFix_LAN.bat and share the LAN URL it prints.
+  Only share the moderator token with people who should manage reports.
+
+OPTIONAL AI
+  Install Ollama (ollama.com), then double-click Download_Gemma4.bat.
+  Without it CampusFix still works with rule-based text triage (photos are not analysed).
+
+More detail: README.md
